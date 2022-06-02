@@ -24,7 +24,7 @@ body {
 
 .bg {
     /* Shorthand background properties */
-    background: url('https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00583.jpg') no-repeat center center/cover; 
+    background: url('https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00583.jpg') no-repeat center center/cover;
     position: absolute;
     top: -30;
     left: -30;
@@ -35,6 +35,6 @@ body {
 }
 
 .loading-text {
-    font-size: 4rem;
+    font-size: 6.5rem;
     color: white;
 }
